@@ -1,0 +1,7 @@
+llama-index
+llama-parse
+streamlit
+nest_asyncio
+PyPDF2
+llama-index-llms-groq
+llama-index-embeddings-jinaai

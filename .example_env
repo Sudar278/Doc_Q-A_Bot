@@ -1,0 +1,5 @@
+groq_rag_langchain ='  '
+LLAMA_CLOUD_API_KEY='  '
+GROQ_API_KEY='  '
+JINAAI_API_KEY='  '
+STREAMLIT_SERVER_MAX_UPLOAD_SIZE= 5
