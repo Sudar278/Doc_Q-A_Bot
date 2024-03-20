@@ -18,7 +18,6 @@ This application streamlines the process of extracting and querying information 
 4. This application is powered by the Mixtral-8x7b-32768 model getting inference from Groq LPU.
 5. For embeddings, it is using the `jina-embeddings-v2-base-en` model.
 6. The Llamaindex is the framework for building the application, and Streamlit is used for creating the interface.
-```
     
 ## Usage
 
