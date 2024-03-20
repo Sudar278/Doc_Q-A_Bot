@@ -1,4 +1,3 @@
-
 # PDF Parser and Q&A Chat Bot
 
 This project allows users to upload a PDF file, parse it using a GenAI-powered parsing tool, and then utilize a chat interface to ask questions related to the content of the PDF.
